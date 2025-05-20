@@ -1,5 +1,5 @@
-https://k0001y.github.io/project/tags/index.html
-https://k0001y.github.io/project/categories/index.html
-https://k0001y.github.io/project/2025/01/16/test/
-https://k0001y.github.io/project/2025/01/16/hello-world/
-https://k0001y.github.io/project
+https://k0001y.github.io/tags/index.html
+https://k0001y.github.io/categories/index.html
+https://k0001y.github.io/2025/01/16/test/
+https://k0001y.github.io/2025/01/16/hello-world/
+https://k0001y.github.io/
